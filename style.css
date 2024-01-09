@@ -123,10 +123,11 @@ body {
   color: rgb(15, 8, 109);
   border: 0;
   font-family: Inter;
-  font-size: 15px;
-  font-weight: 900px;
+  font-size: 20px;
+  font-weight: 700px;
   box-shadow: #070211;
   padding: 10px 10px;
+  text-transform: uppercase;
 }
 
 .welcome-banner .Image-2024 {
@@ -313,13 +314,13 @@ body {
 }
 .lady-pic {
   margin-top: -651px;
-  margin-left: 593px;
+  margin-left: 900px;
   display: flex;
   z-index: 1;
 }
 .fivthy-off {
-  margin-top: 0px;
-  margin-left: 0px;
+  margin-top: 50px;
+  margin-left: -150px;
   z-index: 1;
   position: absolute;
 }
